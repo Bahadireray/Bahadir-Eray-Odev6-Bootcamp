@@ -1,4 +1,5 @@
 # Bahadir-Eray-Odev6-Bootcamp
+## Sonsuz Döngü İçinde İşlem yapmak İçin;
 
 ## Coroutine Dispatcher 
 ### Coroutine’in çalışacağı thread’ e karar veren yapıdır.
